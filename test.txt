@@ -1,2 +1,0 @@
-I am writing this line with vim.
-This is a new line written in Github.
